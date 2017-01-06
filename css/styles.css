@@ -1,20 +1,24 @@
-h1 {
+body {
   font-family: verdana;
+  background-color: #f0f0f5;
+}
+h1 {
+  font-family: 'raleway', sans-serif;
   font-weight: bold;
+  font-size: 5em;
   color: #47476b;
 }
 h2 {
-  font-family: verdana;
-  font-weight: bold;
+  font-family: 'raleway', sans-serif;
+  /*font-weight: bold;*/
+  font-size: 4em;
   color: #666699;
 }
 h3 {
-  font-family: verdana;
   font-weight: bold;
   color: #47476b;
 }
 h4 {
-  font-family: verdana;
   font-weight: bold;
   color: #666699;
 }

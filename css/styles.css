@@ -1,17 +1,18 @@
 body {
   font-family: verdana;
-  background-color: #f0f0f5;
+  /*background-color: #fbf3ea;*/
+  background-color: #e6e6e6;
 }
 h1 {
   font-family: 'raleway', sans-serif;
-  font-weight: bold;
   font-size: 5em;
+  font-weight: 300;
   color: #47476b;
 }
 h2 {
   font-family: 'raleway', sans-serif;
-  /*font-weight: bold;*/
   font-size: 4em;
+  font-weight: 200;
   color: #666699;
 }
 h3 {
@@ -28,9 +29,10 @@ h4 {
   float: left;
   margin-right: 40px;
   /*padding: 4px;*/
-  border: 4px solid #666699;
-
+  border: 3px solid #c2c2d6;
 }
 .in-progress {
   color: #999999;
 }
+.page-header {
+  border-bottom: 1px solid #c2c2d6;

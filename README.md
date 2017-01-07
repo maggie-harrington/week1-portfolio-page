@@ -10,7 +10,7 @@ _A portfolio webpage built using HTML, CSS, and Bootstrap. It will act as the la
 
 ## Setup/Installation Requirements
 
-* _Visit this page at GitHub pages: maggie-harrington.github.io/week1-portfolio-page_
+* _Visit this page at GitHub pages: https://maggie-harrington.github.io/week1-portfolio-page_
 * _Or download at my GitHub repository: https://github.com/maggie-harrington/week1-portfolio-page_
 
 ## Known Bugs

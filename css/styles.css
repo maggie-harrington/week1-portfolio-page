@@ -1,3 +1,6 @@
+.header-color {
+  background: linear-gradient(#c2c2d6, #e6e6e6);
+}
 body {
   font-family: verdana;
   /*background-color: #fbf3ea;*/
@@ -36,8 +39,12 @@ h4 {
 }
 .page-header {
   border-bottom: 1px solid #c2c2d6;
+  padding: 30px;
 }
 .photo-text-color {
   color: #666699;
   font-weight: bold;
+}
+ul {
+  margin-left: 335px;
 }
